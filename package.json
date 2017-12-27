@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "ecomCommon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryer6517/ecomCommon.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "AFC 2.0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryer6517/ecomCommon/issues"
+  },
+  "homepage": "https://github.com/cryer6517/ecomCommon#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
